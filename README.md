@@ -1,5 +1,5 @@
-## 将report-template目录替换apache-jmeter-5.0\bin\report-template目录即可
-下载：https://github.com/mzky/jmeter5.0-cn-report-template/releases
+## 将report-template目录替换apache-jmeter-5.x\bin\report-template目录即可
+下载：https://github.com/mzky/jmeter5.x-cn-report-template/releases
 
 ## 可以写个bat进行html报告批量生成
 
